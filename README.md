@@ -2,13 +2,14 @@
 
 ## System description:
 
-The aim of this project would be to develop a fully functional ecommerce website for a dairy chain with ~15 stores (inventories) across the city. Users can order dairy products using a web application, they can add/remove products to their shopping cart. Users will be able to search from all products available in our store. Main goal of the app is to provide users with quick delivery - ~20 mins. Thus users will be matched to one of the nearest stores with the smallest delivery time (considering factors like no. of delivery persons available). Optimization algorithms at the backend will be used for this. After purchase users will be able to track it’s order in three phases which will be order-under-process,  out-for-delivery and delivered. Users will also get mail regarding order details. Regular tracking details will be provided to the user via email and sms. Promotional mails and advertisements - recommendations will be mailed to users based on their previous orders. The nearest shop handler will get a list of the product ordered and printable bill format and have to dispatch the ordered products. Users will get a payment option of Cash-on-delivery and Online Payment options. Users will also get a payment receipt.
+The aim of this project would be to develop a fully functional ecommerce website for a dairy chain with ~15 stores (inventories) across the city. Users can order dairy products using a web application, they can add/remove products to their shopping cart. Users will be able to search from all products available in our store. Main goal of the app is to provide users with quick delivery - ~20 mins. Thus users will be matched to one of the nearest stores with the smallest delivery time (considering factors like no. of delivy persons available). Optimization algorithms at the backend will be used for this. After purchase users will be able to track it’s order in three phases which will be order-under-process,  out-for-delivery and delivered. Users will also get mail regarding order details. Regular tracking details will be provided to the user via email and sms. Promotional mails and advertisements - recommendations will be mailed to users based on their previous orders. The nearest shop handler will get a list of the product ordered and printable bill format and have to dispatch the ordered products. Users will get a payment option of Cash-on-delivery and Online Payment options. Users will also get a payment receipt.
 
 Users will be able to browse dairy products and add whichever item they would like to their basket. They are able to add quantities of the item or remove an item from their basket. 
 
 This is the proposal document for TechIdea India service offering in the website design and development and custom web application development space. The document details our understanding of the Client Brief, the objectives of the services suite, the methodology, deliverables and commercials.   
 
-### Client Brief : 
+## Client Brief : 
+
  We desire to develop and ecommerce website: 
 	
 1.	Customers will be able to login/register into the website.
@@ -34,6 +35,7 @@ This is the proposal document for TechIdea India service offering in the website
 9.	Customers will be able to check their order status on the website.
 
 10.	 Customers will be able to view shipping details on the website.
+
 #### Web pages details:
 •	Home Page
 •	Shop Page
