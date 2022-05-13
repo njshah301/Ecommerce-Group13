@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'DairyFresh13'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D8DBA530DCFB47B89B91B475547EEDC1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BB37974422DA433090E4F3FF0267DFA2 }}
